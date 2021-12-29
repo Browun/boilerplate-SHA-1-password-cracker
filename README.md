@@ -1,3 +1,7 @@
+## Purpose
+
+Python code to complete the [freeCodeCamp - SHA-1 Password Cracker](https://www.freecodecamp.org/learn/information-security/information-security-projects/sha-1-password-cracker) and also [available on replit](https://replit.com/@browun/fcc-SHA-1-password-cracker?v=1).
+
 ### Assignment
 
 Passwords should never be stored in plain text. They should be stored as hashes, just in case the password list is discovered. However, not all hashes are created equal. 
